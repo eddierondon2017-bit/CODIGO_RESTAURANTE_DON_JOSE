@@ -28,11 +28,10 @@ La aplicación permite:
 - Vaciar todas las reservas con doble confirmación de seguridad
 - Guardar los datos automáticamente tras cada operación
 
-# Estructura del proyecto
+## Estructura del proyecto
 proyecto_restaurante_don_jose/
 │
 ├── reservas_don_jose.json
-│
 ├── logica_de_restarante_don_jose.py
 ├── almacenamiento_datos_de_mesa.py
 ├── nucleo.py
