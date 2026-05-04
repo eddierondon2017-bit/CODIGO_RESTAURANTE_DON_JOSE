@@ -29,14 +29,14 @@ La aplicación permite:
 - Guardar los datos automáticamente tras cada operación
 
 ## Estructura del proyecto
-proyecto_restaurante_don_jose/
+```proyecto_restaurante_don_jose/
 │
 ├── reservas_don_jose.json
 ├── logica_de_restarante_don_jose.py
 ├── almacenamiento_datos_de_mesa.py
 ├── nucleo.py
-└── README.md
-
+└── README.md 
+```
 # Descripción de archivos
 
 logica_de_restarante_don_jose.py
